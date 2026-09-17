@@ -30,13 +30,15 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', '127.0.0.1', '0.0.0.0',
                  '.railway.app', '.onrender.com',
-                 '.appdomain.cloud', '.ngrok-free.app']
+                 '.appdomain.cloud', '.ngrok-free.app',
+                 '.trycloudflare.com']
 CSRF_TRUSTED_ORIGINS = ['http://localhost:8000',
                         'http://127.0.0.1:8000',
                         'https://*.railway.app',
                         'https://*.onrender.com',
                         'https://*.appdomain.cloud',
-                        'https://*.ngrok-free.app']
+                        'https://*.ngrok-free.app',
+                        'https://*.trycloudflare.com']
 
 REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [],
