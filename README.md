@@ -1,6 +1,10 @@
 # Best Cars Dealership – Full Stack Developer Capstone
 
+**Repository name:** xrwvm-fullstack_developer_capstone
+
 **Project name:** Best Cars Dealership Review Portal (IBM Full Stack Software Developer Capstone)
+
+**GitHub URL:** https://github.com/smmk47/xrwvm-fullstack_developer_capstone
 
 A responsive web application for Best Cars Dealership, a national car retailer in the U.S. Visitors can browse
 dealership branches, filter them by state and read customer reviews with sentiment icons. Registered users can log
